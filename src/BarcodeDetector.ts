@@ -1,3 +1,3 @@
-import BarcodeDetector from "./BarcodeDetectorJsqr"
+import BarcodeDetector from "./BarcodeDetectorZXing"
 
 export default BarcodeDetector
